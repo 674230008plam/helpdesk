@@ -1,0 +1,12 @@
+[2026-09-17 09:38:35] [EMAIL NOTIFY] To: admin@helpdesk.local | Subject: [แจ้งซ่อมใหม่] Ticket #1: เปิดไม่ติด | Body: มีรายการแจ้งซ่อมใหม่: หอพักแสนสุข ระดับความสำคัญ: High
+[2026-09-17 09:47:08] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #1 -> Assigned | Body: สถานะงานซ่อมของท่านในรายการ 'เปิดไม่ติด' ได้เปลี่ยนจาก [Open] เป็น [Assigned] แล้ว
+[2026-09-17 09:47:30] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #1 -> InProgress | Body: สถานะงานซ่อมของท่านในรายการ 'เปิดไม่ติด' ได้เปลี่ยนจาก [Assigned] เป็น [InProgress] แล้ว
+[2026-09-17 09:47:44] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #1 -> Resolved | Body: สถานะงานซ่อมของท่านในรายการ 'เปิดไม่ติด' ได้เปลี่ยนจาก [InProgress] เป็น [Resolved] แล้ว
+[2026-09-17 09:51:39] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #1 -> Closed | Body: สถานะงานซ่อมของท่านในรายการ 'เปิดไม่ติด' ได้เปลี่ยนจาก [Resolved] เป็น [Closed] แล้ว
+[2026-09-17 09:52:24] [EMAIL NOTIFY] To: admin@helpdesk.local | Subject: [แจ้งซ่อมใหม่] Ticket #2: จอฟ้ายาวไม่ดับ | Body: มีรายการแจ้งซ่อมใหม่: หอพักแสนสุข ระดับความสำคัญ: Medium
+[2026-09-17 09:52:35] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> Assigned | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [Open] เป็น [Assigned] แล้ว
+[2026-09-17 09:52:48] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> InProgress | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [Assigned] เป็น [InProgress] แล้ว
+[2026-09-17 09:53:28] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> Resolved | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [InProgress] เป็น [Resolved] แล้ว
+[2026-09-17 09:53:45] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> InProgress | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [Resolved] เป็น [InProgress] แล้ว
+[2026-09-17 09:53:58] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> Resolved | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [InProgress] เป็น [Resolved] แล้ว
+[2026-09-17 09:54:13] [EMAIL NOTIFY] To: user1@helpdesk.local | Subject: [สถานะงานซ่อมเปลี่ยน] Ticket #2 -> Closed | Body: สถานะงานซ่อมของท่านในรายการ 'จอฟ้ายาวไม่ดับ' ได้เปลี่ยนจาก [Resolved] เป็น [Closed] แล้ว
